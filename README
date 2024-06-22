@@ -1,11 +1,23 @@
-ADMIN credentials:
+Admin features:
+1. View all vacations
+2. Sort vacations by chosen parameter
+3. Add new vacations
+4. Edit existing vacations
+5. Delete a vacation
 
+User features:
+1. View all vacations
+2. Sort vacations by chosen parameter
+3. Like and unlike vacations
+
+ADMIN credentials:
 Email- assaffink@gmail.com
 password- 12345678
 
 ---------------------------------
 
 USER credentials:
-
 Email- niv1999@gmail.com
 password- 314830365niv
+
+* or register as a new USER
