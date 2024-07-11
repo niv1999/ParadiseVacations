@@ -1,3 +1,5 @@
+Paradise Vacations is a Flask based web app that represents a vacation display and requires authentication.
+
 Admin features:
 1. View all vacations
 2. Sort vacations by chosen parameter
@@ -9,15 +11,3 @@ User features:
 1. View all vacations
 2. Sort vacations by chosen parameter
 3. Like and unlike vacations
-
-ADMIN credentials:
-Email- assaffink@gmail.com
-password- 12345678
-
----------------------------------
-
-USER credentials:
-Email- niv1999@gmail.com
-password- 314830365niv
-
-* or register as a new USER
